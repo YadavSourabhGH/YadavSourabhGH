@@ -17,11 +17,59 @@
 <a href="https://instagram.com/yadav.sourabhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yadav.sourabhh" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavsourabhgh&show_icons=true&locale=en&layout=compact" alt="yadavsourabhgh" /></p>
+## Languages and Tools
+<p align="left">
+    <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Data_structures" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/data-configuration.png" alt="DSA" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+    </a>
+    <a href="https://www.wix.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="Wix" width="40" height="40"/>
+    </a>
+    <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
+    </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavsourabhgh&show_icons=true&locale=en" alt="yadavsourabhgh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavsourabhgh&" alt="yadavsourabhgh" /></p>
+## Open Source Summary
+
+<p align="center">
+  <a href="https://github.com/yadavsourabhgh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadavsourabhgh&theme=radical&border=7F3FBF&background=0D1117" alt="Sourabh Yadav GitHub streak"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/yadavsourabhgh">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yadavsourabhgh&theme=radical" alt="Sourabh Yadav GitHub Contribution"/>
+  </a>
+</p>
+
+<a href="https://github.com/yadavsourabhgh">
+  <img alt="Sourabh Yadav Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yadavsourabhgh&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117" />
+</a>
+
+<a href="https://github.com/yadavsourabhgh">
+  <img alt="Sourabh Yadav Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsourabhgh&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117" />
+</a>
