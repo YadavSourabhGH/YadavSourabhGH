@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://github.com/yadavsourabhgh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadavsourabhgh" alt="Sourabh Yadav GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadavsourabhgh&theme=radical" alt="Sourabh Yadav GitHub streak"/>
   </a>
 </p>
 <p align="center">
