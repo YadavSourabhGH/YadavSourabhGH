@@ -1,10 +1,18 @@
-
-<h1 align="center">Hi 👋, I'm Sourabh Yadav</h1>
+![Alt text](https://raw.githubusercontent.com/YadavSourabhGH/YadavSourabhGH/refs/heads/main/pixel-jeff-matrix-s.gif)
+<p align="center">
+<img src="https://raw.githubusercontent.com/YadavSourabhGH/YadavSourabhGH/refs/heads/main/1013281159649701908.gif" alt="lines" height="1" width="100%"/><br>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hello+Friends!+%F0%9F%91%8B;+I%27m+Sourabh%20Yadav%20%F0%9F%91%80" alt="Into GIF" />
+<img src="https://raw.githubusercontent.com/YadavSourabhGH/YadavSourabhGH/refs/heads/main/1013281159649701908.gif" alt="lines" height="1" width="100%"/>
+</p>
 <h3 align="center">A Passionate Developer From <b>India</b></h3>
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/YadavSourabhGH/YadavSourabhGH/refs/heads/main/coding.gif" alt="Walking GIF" />
+</p> -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavsourabhgh&label=Profile%20views&color=0e75b6&style=flat" alt="yadavsourabhgh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yadavsourabhx" target="blank"><img src="https://img.shields.io/twitter/follow/yadavsourabhx?logo=twitter&style=for-the-badge" alt="yadavsourabhx" /></a> </p>
+
 
 - 🔭 I’m currently Studying at **ITM Skills University Btech Computer Science**
 
@@ -50,26 +58,29 @@
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
     </a>
+    
 </p>
 
 
 ## Open Source Summary
 
-<p align="center">
+<p align="center" style="margin: 20px 0;">
   <a href="https://github.com/yadavsourabhgh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadavsourabhgh&theme=radical" alt="Sourabh Yadav GitHub streak"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/yadavsourabhgh">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yadavsourabhgh&theme=radical" alt="Sourabh Yadav GitHub Contribution"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadavsourabhgh&theme=radical" alt="Sourabh Yadav GitHub streak" style="margin: 20px;"/>
   </a>
 </p>
 
-<a href="https://github.com/yadavsourabhgh">
-  <img alt="Sourabh Yadav Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yadavsourabhgh&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117" />
-</a>
+<p align="center" style="margin: 20px 0;">
+  <a href="https://github.com/yadavsourabhgh">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yadavsourabhgh&theme=radical" alt="Sourabh Yadav GitHub Contribution" style="margin: 20px;"/>
+  </a>
+</p>
 
-<a href="https://github.com/yadavsourabhgh">
-  <img alt="Sourabh Yadav Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsourabhgh&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117" />
-</a>
+<p align="center" style="margin: 20px 0;">
+  <a href="https://github.com/yadavsourabhgh">
+    <img alt="Sourabh Yadav Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yadavsourabhgh&show_icons=true&count_private=true&theme=radical" style="margin: 20px;"/>
+  </a>
+  <a href="https://github.com/yadavsourabhgh">
+    <img alt="Sourabh Yadav Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsourabhgh&langs_count=8&layout=compact&theme=radical" style="margin: 20px;"/>
+  </a>
+</p>
